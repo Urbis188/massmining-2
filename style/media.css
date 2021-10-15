@@ -1,0 +1,1060 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@media(max-width:1380px){
+    .contacts-slider .owl-prev{
+        margin-left: 10px;
+    }
+    .contacts-slider .owl-next{
+        margin-right: 10px;
+    }
+    .step-one-img > img{
+        width: 500px;
+    }
+    .mail-top{
+        width: 300px !important;
+    }
+}
+@media(max-width:1215px){
+    .what-blockchain{
+        background-position: 800px center ;
+    }
+    .conf-text span{
+        font-size: 50px;
+    }
+    .conf-text p{
+        font-size: 18px !important;
+    }
+    .img-conf{
+        width: 300px;
+    }
+    .img-conf img{
+        width: 100%;
+    }
+    .conf-mining-content{
+        margin-top: 80px;
+    }
+    .book-block{
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .book-container .step-one-text{
+        margin-top: 30px;
+    }
+}
+@media(max-width:1124px){
+    .nav-items li a{
+        font-size: 13px;
+    }
+    .nav-items li{
+        margin-right: 20px;
+    }
+    .menu-page .logo{
+        width: 150px;
+    }
+    .menu-page .logo img{
+        width: 100%;
+    }
+    .teams-content{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .teams-content .teams-item{
+        margin: 20px;
+    }
+    .teams2 {
+        background: none ;
+    }
+    .ab-mining-man-content{
+        background-position: -100px bottom;
+        width: 100%;
+    }
+    .baner-income-two .baner-income-two{
+        background-position: -300px bottom;
+        width: 100%;
+    }
+    .eq-bolck ul{
+        width: 500px;
+    }
+    .mining-section-about p{
+        font-size: 58px;
+        margin-left: 10px;
+    }
+}
+@media(max-width:1200px){
+    .v-mc-img {
+        -webkit-transform: translateX(0px);
+            -ms-transform: translateX(0px);
+                transform: translateX(0px);
+        margin-right: -160px;
+    }
+}
+@media(max-width:1105px){
+    .b-t-before:before{
+        height: 150px;
+    }
+    .equipment-our{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .mining-region-content-one{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .region-content{
+        width: 100%;
+    }
+}
+@media(max-width:1070px){
+    
+    .legality-triggers .big-line-tr .img-ltl img{
+        display: none;
+    }
+    .bil-tr2 .ltl-text-2{
+        margin-left: 0 !important;
+    }
+    .img-tech-apsolute{
+        display: none;
+    }
+    .step-one-img{
+        display: none;
+    }
+    .step-foure{
+        padding: 120px 0 !important;
+    }
+    .step-two-container{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .step-one-text{
+        width: 100%;
+        margin-left: 80px;
+    }
+    .step-one-img > img{
+        display: none;
+    }
+    .mining-region-content-two{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .cobfig-mining-logo img{
+        width: 300px;
+    }
+    .social-block-link{
+        width: 100%;
+    }
+    .sicial-item a{
+        font-size: 20px;
+    }
+    .book-container .step-one-img, .book-container  .step-one-img > img{
+        display: block !important;
+    }
+    h2 br{
+        display: none !important;
+    }
+    
+}
+@media(max-width:960px){
+    .blockchain-slider .owl-nav{
+        left: 0;
+        bottom: -95px;
+        width: 100%;
+    }
+    .slider-bl{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .what-blockchain{
+        background: none ;
+    }
+    .quote-man-right .ab-mining-man-content{
+        background: none;
+    }
+    .baner-income-two .baner-income-two{
+        background-position: -400px bottom;
+        width: 100%;
+    }
+    .contacts-baner{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .cbc-item{
+        width: 100%;
+        margin-bottom: 40px;
+        padding: 40px 0;
+    }
+    .cbc-item img{
+        margin-right: 20px;
+    }
+    .cobfig-mining-logo img{
+        width: 200px;
+    }
+    .configuration-mining > p br{
+        display: none;
+    }
+    .nav-page{
+        position: absolute;
+        top: -500px;
+        background: #18171e;
+        width: 100%;
+        display: block;
+        padding: 30px 15px ;
+        text-align: center;
+        -webkit-transition-duration: 0.4s;
+             -o-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+    }
+    .nav-page-open{
+        top: 77px;
+        -webkit-transition-duration: 0.4s;
+             -o-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+    }
+    .nav-items li{
+        display: block;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .nav-items li a{
+        font-size: 16px;
+    }
+    .nav-lang{
+        display: inline-block;
+        width: 100px;
+        padding: 0 20px;
+        padding-top: 2px;
+        margin: 15px 0;
+    }
+    .nav-lang ul{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .btn-type-one{
+        display: block;
+        width: 180px;
+        margin: 0 auto;
+    }
+    .menu-btn{
+        display: block;
+    }
+    .baner-tech-content h1{
+        font-size: 60px;
+    }
+    .baner-tech-content > p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .baner-tech-content{
+        padding-top: 60px;
+    }
+    .baner-tech-row{
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;
+    }
+    .baner-tech-list{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .b-t-before:before{
+        display: none;
+    }
+    .tech-purpose p{
+        font-size: 18px;
+    }
+    .tech-purpose2 p{
+        font-size: 18px;
+    }
+    .barnd-calc img{
+        width: 100%;
+    }
+    .menu-footer li a, .footer-social p, .footer-social a{
+        font-size: 13px;
+    }
+    .inp-out{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .v-mc-img{
+        display: none;
+    }
+    .icons-v-m{
+        margin-left: 0;
+    }
+    .freedom-miss-des{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .miss-trigger{
+        margin: 30px;
+    }
+    .freedom-miss-des p{
+        margin-top: 20px;
+    }
+    .mission-h2 span{
+        font-size: 80px;
+    }
+    .mission-h2 h2{
+        -webkit-transform: translateY(-75px);
+            -ms-transform: translateY(-75px);
+                transform: translateY(-75px);
+    }
+    .mining-about{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .m-a-text{
+        width: 100%;
+    }
+    .m-a-text br{
+        display: none;
+    }
+    .m-a-text, .m-a-img{
+        width: 100%;
+        margin-top: 80px;
+    }
+    .ab-mining-man-content{
+        background: none;
+    }
+    .text-abm{
+        width: 98%;
+        margin: 0 auto;
+    }
+    .about-mining-man{
+        height: 500px;
+    }
+    .text-abm{
+        min-height: 500px;
+        padding-top: 70px;
+    }
+    .eq-bolck{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .eq-bolck .info-eq{
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .mining-region h2{
+        padding-top: 80px;
+    }
+    .mining-section-about p{
+        font-size: 50px;
+        margin-left: 10px;
+        margin-bottom: 40px;
+    }
+}
+@media(max-width:768px){
+    .blockchain2-des .min-sec-ab-img{
+        height: auto;
+    }
+    .text-bl-sl span{
+        font-size: 40px;
+    }
+    .text-bl-sl p{
+        font-size: 18px !important; 
+    }
+    .slider-blockchain h2 br{
+        display: none;
+    }
+    .bill-g-content{
+        padding: 100px 0;
+        background: none;
+    }
+    .video-blockchain iframe{
+        height: 500px;
+    }
+    .what-blockchain-container p{
+        font-size: 18px !important;
+    }
+    .what-blockchain-container p br{
+        display: none;
+    }
+    .line-triggers{
+         -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+         -webkit-box-pack: center;
+             -ms-flex-pack: center;
+                 justify-content: center;
+    }
+    .line-tr{
+        width: 100% !important;
+        margin-top: 50px;
+    }
+    .today-legality .lt2{
+        margin-top: 0;
+    }
+    .cerf-img-2{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .cerf-img-2 .cerf-img{
+        width: 100%;
+    }
+    .step-one-img{
+        display: none;
+    }
+    .step-one br{
+        display: none !important;
+    }
+    .step-position{
+        width: 80px;
+    }
+    .text-h{
+        font-size: 46px;
+    }
+    .text-h br{
+        display: none;
+    }
+    .balance-income .text-green{
+        font-size: 18px;
+    }
+    .text-bit .bit-img{
+        display: none;
+    }
+    .baner-income-two .baner-income-two{
+        background:none;
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+        text-align: center;
+
+    }
+    .baner-income-two .text-bit{
+        width: 100%;
+    }
+    h1{
+        font-size:70px ;
+    }
+    .mining-about-bg{
+        background-position: left;
+    }
+    .cobfig-mining-logo img{
+        width: 60%;
+        margin-bottom: 50px;
+    }
+    .cobfig-mining-logo{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin-top: 50px;
+    }
+    .conf-mining-content{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .conf-text{
+        width: 100%;
+    }
+    .conf-text br{
+        display: none;
+    }
+    .configuration-mining{
+        padding-top: 80px;
+    }
+    .baner-tech-list{
+        margin-left: 0;
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;
+    }
+    .baner-tech-img{
+        height: auto;
+    }
+    .menu-footer{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .menu-footer ul{
+        margin: 15px 30px;
+    }
+    .footer-social{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .footer-social p, .footer-social > a{
+        display: none;
+    }
+    .social-block-footer ul{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .social-block-footer{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .text-p{
+        font-size: 18px;
+    }
+    .icons-v-m{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        text-align: center;
+    }
+    .v-content-tx{
+        width: 100%;
+    }
+    .icons-v-m img{
+        margin-right: 0;
+        margin: 0 auto;
+    }
+    .text-p{
+        font-size: 18px !important;
+    }
+    .baner-mining-content{
+        padding: 80px 0 50px;
+    }
+    h2{
+        font-size: 46px !important;
+    }
+    .live-block{
+        margin-top: 50px;
+        height: 400px;
+    }
+    .live{
+        padding-top: 100px;
+    }
+    .live-block span{
+        font-size: 28px;
+    }
+    .m-strategy-tr{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .mining-block, .vid-card{
+        width: 100%;
+    }
+    .vid-card img{
+        width: 100%;
+    }
+    .eq-bolck ul{
+        width: 100%;
+        max-width: 600px;
+    }
+    .mining-section-about{
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;
+    }
+    .mining-section-about p br{
+        display: none;
+    }
+    .mining-section-about p{
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .min-sec-ab-img{
+        width: 100%;
+        height: 300px;
+        margin-top: 20px;
+    }
+    .mining-section-about{
+        padding-top: 100px;
+    }
+    .configuration-mining p {
+        font-size: 18px !important;
+    }
+    .section-ab-tw .t-p2{
+        font-size: 20px !important;
+    }
+    .section-ab-tw h2, .what-legality p{
+        margin-top: 30px;
+    }
+    .book-container  .step-one-img > img{
+       width: 90%;
+       max-width: 300px;
+    }
+    .book-block p, .book-block .t-p2{
+        font-size: 20px !important;
+    }
+    .book-container .step-one-text{
+        margin-left: 0;
+    }
+     h2 br{
+        display: none !important;
+    }
+}
+@media(max-width:600px){
+    .mining-about-bg a{
+        font-size: 16px !important;
+    }
+    .tech-purpose2 img{
+        margin-top: 0;
+    }
+    .tech-purpose{
+        padding-bottom: 10px;
+    }
+    .tech-purpose p br{
+        display: none;
+    }
+    .tech-purpose2 p br{
+        display: none;
+    }
+    h2{
+        font-size: 40px !important;
+    }
+    .tech-purpose{
+        padding-top: 60px;
+    }
+    .tech-purpose p, .tech-purpose2 p{
+        margin-top: 40px;
+    }
+    .quote-content p{
+        font-size: 20px;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .quote-content {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .quote-content .avatar-quote{
+        margin-right: 0;
+    }
+    .tech-about p{
+        font-size: 18px;
+    }
+    .tech-about{
+        padding: 80px 0;
+    }
+    .img-tech-apsolute{
+        display: none;
+    }
+    .inp-out div span{
+        font-size: 26px;
+    }
+    .social-block-footer ul{
+        margin-left: -50px ;
+    }
+    .social-block-footer ul li{
+        margin-bottom: 10px;
+    }
+    .values-mission {
+        padding-top: 60px !important;
+    }
+    .about-mining-man{
+        height: 400px !important;
+    }
+    .text-abm{
+        height: 400px;
+        padding-top: 50px !important;
+    }
+    .ab-mining-man-content p{
+        font-size: 18px !important;
+    }
+    .equipment-mining > p{
+        font-size: 20px !important;
+    }
+    .equipment-mining > p br{
+        display: none;
+    }
+    .eq-bolck .in-eq-name{
+        font-size: 26px;
+    }
+    .eq-bolck ul li p, .eq-bolck ul li span{
+        font-size: 20px;
+    }
+    .info-eq{
+        width: 100%;
+    }
+    .mining-region-content-two{
+        margin-top: 0px;
+    }
+    .reg-tr{
+        margin-bottom: 30px;
+    }
+    .region-content > p{
+        font-size: 18px !important;
+    }
+    .img-region img{
+        width: 100%;
+    }
+    .social-block-link{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        padding-top: 80px;
+    }
+    .sicial-item{
+        width: 100%;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        text-align: center;
+    }
+    .sicial-item a{
+        width: 100%;
+        padding-top: 30px;
+    }
+}
+@media(max-width:480px){
+    .img-bl-sl img{
+        width: 180px !important;
+    }
+    .text-bl-sl span{
+        font-size: 30px;
+    }
+    .text-bl-sl p{
+        font-size: 16px !important; 
+    }
+    .slider-blockchain h2{
+        font-size: 30px !important;
+    }
+    
+    .video-blockchain iframe{
+        height: 300px;
+    }
+    .line-tr{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        min-height: 300px;
+    }
+    .cerf-img p, .today-legality-content > p{
+        font-size: 18px !important;
+        margin-top: 30px;
+    }
+    .stp1{
+        width: 59px;
+    }
+    .step-one, .step-two-container{
+        padding: 50px 0 !important;
+    }
+    .step-one-text{
+        margin-left: 0;
+    }
+    .step-position{
+        left: 0;
+        top: -40px;
+    }
+    .step-one .t-p2{
+        font-size: 18px !important;
+    }
+    .step-one .text-green{
+        font-size: 18px !important;
+    }
+    .text-h{
+        font-size: 30px;
+    }
+    .balance-income{
+        padding: 80px 0;
+    }
+    .text-left-in{
+        margin: 80px 0;
+    }
+    .text-left-in p{
+        font-size: 18px !important;
+    }
+    .baner-income-two .text-bit p{
+        font-size: 18px !important;
+    }
+    .baner-income-two .text-bit p br{
+        display: none;
+    }
+    .social-block-link{
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .sicial-item{
+        width: 50%;
+    }
+    .sicial-item .sicial-img{
+        width: 50px;
+    }
+    .sicial-item .sicial-img img{
+        width: 100%;
+    }
+    .contacts-maps iframe{
+        height: 300px;
+    }
+    .contacts-slider .owl-nav{
+        top: 110%;
+    }
+    .social-contacts .cbc-item .team-name{
+        font-size: 36px !important;
+    }
+    .cbc-item .team-name{
+        font-size: 28px;
+    }
+    .cbc-item .t-p2, .cbc-item  .text-green{
+        font-size: 18px !important;
+    }
+    .contacts-baner{
+        margin-top: 80px;
+    }
+    .cbc-item img{
+        margin-right: 0;
+        width: 100px;
+    }
+    .cobfig-mining-logo span{
+        font-size: 28px;
+    }
+    .menu-footer ul{
+        width: 100%;
+    }
+    .b-tech-l p{
+        font-size: 16px;
+    }
+    .b-tech-l{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        text-align: center;
+    }
+    .b-tech-icons{
+        margin-right: 0;
+        margin: 0 auto;
+    }
+    h1{
+        font-size: 50px !important;
+    }
+    .baner-tech-content > p{
+        font-size: 16px;
+    }
+    .tech-purpose p, .tech-purpose2 p{
+        font-size: 16px;
+    }
+    .tech-about p{
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .tech-about p br{
+        display: none;
+    }
+    .btn-type-two{
+        margin-left: 0;
+    }
+    .inp-out input{
+        width: 100%;
+        height: 70px;
+        font-size: 18px;
+    }
+    .calc-cash{
+        padding: 40px 15px;
+    }
+    .calc-cash p{
+        font-size: 40px;
+    }
+    .calc-text{
+        font-size: 16px;
+    }
+    .b-tech-text{
+        width: 100%;
+    }
+    .tech-about {
+        background-position: center left;
+    }
+    .text-p br{
+        display: none;
+    }
+    .h2-min{
+        font-size: 30px !important;
+    }
+    .icons-v-m span{
+        font-size: 20px !important;
+        margin-bottom: 15px;
+        display: inline-block;
+    }
+    .icons-v-m p{
+        font-size: 16px;
+    }
+    .icons-v-m p br{
+        display: none;
+    }
+    .v-mc-info{
+        padding: 40px 10px;
+    }
+    .mission-h2 h2{
+        font-size: 30px !important;
+    }
+    .miss-trigger{
+        margin: 30px 0;
+    }
+    .mission-h2 span{
+        display: none;
+    }.teams2{
+        background-image: url(../img/background/teambg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .mission-h2 h2{
+        margin-top: 50px;
+    }
+    .teams-content .teams-item{
+        margin: 0;
+    }
+    .teams-content .teams-item .img-teammate{
+        width: 280px;
+    }
+    .teams-content-centre .teams-item .img-teammate{
+        width: 280px;
+    }
+    .team-name{
+        font-size: 34px;
+    }
+    .team-des{
+        font-size: 24px;
+    }
+    .team-social a{
+        font-size: 14px;
+    }
+    .live-block{
+        height: 300px;
+    }
+    .mining-strategy{
+        padding-top: 100px;
+    }
+    .m-strategy-tr{
+        padding-top: 60px;
+    }
+    .mining-trigger p{
+        font-size: 18px;
+    }
+    .mining-trigger{
+        width: 300px;
+        margin-bottom: 40px;
+    }
+    .mining-trigger img{
+        width: 100%;
+    }
+    .about-mining-man{
+        height: 550px !important;
+    }
+    .text-abm{
+        height: 550px;
+        padding-top: 50px !important;
+    }
+    .equipment-our span{
+        font-size: 22px;
+    }
+    .vid-card img{
+        margin-top: 40px;
+    }
+    .eq-bolck img{
+        width: 100%;
+    }
+    .eq-bolck .in-eq-name{
+        font-size: 22px;
+    }
+    .eq-bolck ul li p, .eq-bolck ul li span{
+        font-size: 18px;
+    }
+    .region-content img{
+        width: 90%;
+    }
+    .region-content > p, .mining-region-content-two p{
+        font-size: 16px !important;
+    }
+    .mining-region-content-two .reg-tr img{
+        width: 100% !important;
+    }
+    .mining-section-about p{
+        font-size: 30px;
+    }
+    .section-ab-tw .t-p2, .what-legality p{
+        font-size: 18px !important;
+    }
+    .tr1-one{
+        height: 400px !important;
+        text-align: center;
+    }
+    .tr2-one{
+        height: 380px !important;
+        text-align: center;
+    }
+    .tr2-one .ltl-text-1{
+        width: 100%;
+        text-align: center;
+    }
+    .legality-triggers .little-line-tr p{
+        margin-left: 0;
+    }
+    .legality-triggers .big-line-tr{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .legality-triggers .little-line-tr .ltl-text-1{
+        width: 100% !important;
+        text-align: center;
+    }
+    .bil-tr2{
+        -webkit-box-pack: center !important;
+            -ms-flex-pack: center !important;
+                justify-content: center !important;
+        text-align: center;
+    }
+    .bil-tr2{
+        height:350px !important ;
+    }
+    .book-block p, .book-block .t-p2{
+        font-size: 18px !important;
+    }
+    .book-container{
+        padding-bottom: 0;
+    }
+    .blockchein-cn2{
+        padding-top: 0;
+    }
+    .blockchein-cn2 .text-p br{
+        display: none !important;
+    }
+}
